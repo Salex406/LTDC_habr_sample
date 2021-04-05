@@ -1,0 +1,7 @@
+АППАРАТКА
+
+UART5 MH-Z19b 9600
+UART8 ESP 115200
+
+I2C3 датчики
+I2C4 touchscreen
